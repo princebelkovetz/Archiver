@@ -2,8 +2,8 @@
 Efficient file compression with Huffman's coding
 
 # Installation
-* install repo
-* run: 
+* clone repo
+* build and run: 
 ```
 CMake CMakeLists.txt
 make archiver
